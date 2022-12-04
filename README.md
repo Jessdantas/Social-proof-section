@@ -14,7 +14,7 @@ Construído com
 -HTML
 -CSS / Flexbox
 
-Obrigada p
+Obrigada  pela visita!
 
 
 **Até logo** 🚀
